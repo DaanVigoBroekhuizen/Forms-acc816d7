@@ -11,12 +11,7 @@
     <input type="text" name="email">
     <input type="submit" name="submit">
 </form>
-    
-<?php
 
-
-
-?>
 </body>
 </html>
 
